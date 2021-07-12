@@ -18,6 +18,8 @@ print(list1)
 
 list1.append(list2)
 
+print(list1)
+
 a=list1.count(1)
 
 print(a)
