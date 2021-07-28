@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+int main()
+{
+    
+float b,h;
+    
+float area;
+    
+scanf("%f%f",&b,&h);
+    
+area=(b*h)/2;
+    
+printf("%.2f",area);
+
+}
